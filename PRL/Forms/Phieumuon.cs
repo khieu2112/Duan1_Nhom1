@@ -19,5 +19,14 @@ namespace PRL.Forms
             this.username = username;
             pass = mk;
         }
+
+        private void ViewSach_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+        private void LoadSach(dynamic data)
+        {
+
+        }
     }
 }
